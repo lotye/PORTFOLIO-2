@@ -135,8 +135,8 @@ margin-bottom: 15px;
      position: absolute;
     top: -100px;
     margin: auto;
-    font-family: "Tangerine";
-    font-size: 120%;
+    font-family: "Scope One";
+    font-size: 80%;
 }
 .descriptions {
     float: right;
@@ -198,6 +198,11 @@ margin-bottom: 15px;
     background-repeat: no-repeat;
     text-align: center;
     font-family: "Bad Script";
+    font-size: 120%;
+}
+em{
+    color: white;
+    font-family:"Bad Script" ;
 }
 
 .sections5{width: 100%;
